@@ -1,5 +1,5 @@
-# RISC-V Single Cycle Core NANO-H
-### Designed by Muhammad Hadir Khan
+# RISC-V Single Cycle Core Zulfiqar
+### Designed by Muhammad Farooq Hidayat
 First of all get started by cloning this repository on your machine.  
 ```ruby
 git clone https://github.com/merledu/Zulfiqar-Core.git
