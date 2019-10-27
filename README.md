@@ -44,11 +44,11 @@ sbt:Zulfiqar>
 ```
 Enter this command
 ```ruby
-sbt:Zulfiqar> test:runMain datapath.Launcher Core
+sbt:Zulfiqar> test:runMain riscv.Launcher Core
 ```
 After you get success
 ```ruby
-sbt:Zulfiqar> test:runMain datapath.Launcher Core --backend-name verilator
+sbt:Zulfiqar> test:runMain riscv.Launcher Core --backend-name verilator
 ```
 After success you will get a folder ***test_run_dir*** on root of your folder. Go into the examples folder inside.\
 There you will find the folder named Top. Enter in it and you can find the Core.vcd file which you visualise on **gtkwave** to\
